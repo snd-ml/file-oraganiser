@@ -1,4 +1,4 @@
-# file-oraganiser
+# File Oraganiser
 Simple Python Script to organise and tidy-up the download folders in windows.
 - Just change the path at line_19 of the script to your own path and you are good to go.
 
